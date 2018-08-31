@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-size: 24px;
+    
+}
+
+.title {
+    font-weight: bold;
+    font-size: 48px;
+}
+
+button {
+    height: 40px;
+    width: 100px;
+}
